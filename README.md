@@ -6,7 +6,7 @@ StopWatch GUI Application (with Python Tkinter package)
 
 ![stopwatch-start](https://github.com/Nischal-Pradhan/StopWatch-Desktop-App/assets/68721650/ffd4d7eb-dcca-49d2-89b2-1384864dc75e)
 
->pip install tkinter
+>pip install tkinter <br>
 >pip install pyinstaller for converting py gui file to exe file
 
 #### Code:
