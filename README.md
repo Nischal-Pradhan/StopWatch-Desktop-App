@@ -1,5 +1,5 @@
 # StopWatch-Desktop-App
-StopWatch GUI Application (with Python Tkinter package)
+StopWatch GUI Application (with Python Tkinter package:contains .exe file)
 
 - Stopwatch-App Screenshot
 <br>
