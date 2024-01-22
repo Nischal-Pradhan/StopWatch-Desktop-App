@@ -1,0 +1,14 @@
+run cmd as admin: to the directory
+
+install pyinstaller
+
+:: installation complete ::
+
+:/>pyinstaller main.py 
+(doesnot create a single application)
+
+:/>pyinstaller main.py --onefile
+(creates a single file application but also have a cmd-line gui in background)
+
+:/>pyinstaller main.py --onefile -w
+(final: cmd-line gui doesnot shows up)
